@@ -1,0 +1,24 @@
+This experiment evaluates how newly exposed copper corrodes in different drinking-water chemistries 
+using Quartz Crystal Microbalance with Dissipation (QCM-D). As corrosion occurs,frequency shifts (Δf) 
+are converted to surface mass loss (Δm) using the Sauerbrey-based conversion provided in the dataset. 
+
+Across all five drinking-water conditions, the QCM-D mass-loss curves clearly demonstrated how water
+chemistry controls copper degradation. Since Δm directly reflects corrosion kinetics, the influence
+of pH, chloride, and orthophosphate on copper passivation and dissolution can be compared across five
+water conditions. 
+
+By modelling Δm vs. time using predictive techniques such as Generalized Additive Models (GAM) and 
+Weibull degradation fits, the study aims to identify corrosion trends, detect passive film breakdown, 
+and forecast long-term behavior. These insights support improved corrosion control and material 
+durability in drinking-water distribution system.
+
+Low-pH water (Condition A) caused fast and continuous corrosion, while adding orthophosphate (C & D) 
+and/or increasing pH (B & D) helped form a protective passive film, reducing metal loss significantly. 
+Condition D (pH 9 + phosphate) showed the best protection, whereas Conditions B and E exhibited partial
+film stability followed by breakdown, indicating vulnerability to localized corrosion over time.
+
+In terms of prediction capability, the GAM model captured the true corrosion behavior most accurately —
+including slow initiation, passivation plateaus, and sudden acceleration phases. The Weibull model 
+performed well only in simpler, monotonic corrosion trends, but struggled when film-formation and
+breakdown occurred. Therefore, GAM is the preferred model for realistic corrosion forecasting, 
+especially when surface processes are complex and time-dependent.

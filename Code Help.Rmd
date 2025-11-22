@@ -1,0 +1,42 @@
+---
+title: "Code Help"
+output: html_document
+---
+
+How to run code:
+
+There are SIX categories- (CLICK ON Outline TO VIEW IT)
+
+* Data Input and pre-processing
+
+* Condition A
+
+* Condition B
+
+* Condition C
+
+* Condition D
+
+* Condition E
+
+!!! FIRST RUN Data Input and pre-processing BY HIGHLIGHTING THE CODE COMPLETELY !!!
+
+THEN, HIGHLIGHT THE REQUIRED CONDITION COMPLETELY TO RUN THE CODE.
+
+BUT NOTE: !!! FIRST RUN Data Input and pre-processing BY HIGHLIGHTING THE CODE COMPLETELY !!!
+
+YOU CAN HIGHLIGHT SUB SECTIONS OF CONDITIONS TO RUN A SPECIFIC PLOT AS WELL.
+
+TO RUN FULLY:  
+
+1. ctrl + A 
+
+2. ctrl + Enter OR CLICK ON RUN BUTTON
+
+WATCH THIS DEMO CLIP TO SOLVE ANY DOUBTS!
+
+
+<video width="800" controls>
+  <source src="r_corr_proj_demo_V1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
